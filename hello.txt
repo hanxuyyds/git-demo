@@ -4,8 +4,6 @@ dsadasdasdasdasdhello world
 dsadasdasdasdasdhello world
 dsadasdasdasdasdhello world
 dsadasdasdasdasdhello world
-<<<<<<< HEAD
 12312312312313131231231231123
 =======
 你好，世界
->>>>>>> hot-fix
